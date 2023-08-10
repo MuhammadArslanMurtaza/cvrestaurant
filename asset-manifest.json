@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cvrestaurant/static/css/main.dfd93ae4.css",
+    "main.js": "/cvrestaurant/static/js/main.9af1f137.js",
+    "index.html": "/cvrestaurant/index.html",
+    "main.dfd93ae4.css.map": "/cvrestaurant/static/css/main.dfd93ae4.css.map",
+    "main.9af1f137.js.map": "/cvrestaurant/static/js/main.9af1f137.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd93ae4.css",
+    "static/js/main.9af1f137.js"
+  ]
+}
